@@ -10,3 +10,7 @@ frontend/dist/
 # Environment files
 *.env
 *.env.local
+
+
+# Django static files
+backend/staticfiles/    
